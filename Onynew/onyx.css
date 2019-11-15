@@ -1,0 +1,112 @@
+/*
+.got {
+    
+    background-color: #cedddd;
+    
+}
+*/
+
+.text-white {
+    text-align: center;
+}
+.navbar-toggler {
+    background-color:#5c748d;
+    margin-left: -12
+        
+}
+
+.bg-dark {
+    
+    background-color: #648daf !important;
+}
+
+.collapse {
+    background-color: aquamarine;
+}
+
+.row {
+    
+    padding-top: 10px;
+
+}
+.form-inline {
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+    
+}
+.mr-sm-2 {
+    
+    background-color: #648daf;;
+}
+.btn-outline-success {
+    background-color: #648daf;
+    color: #6d6d6d;
+}
+
+h1 { font-family: bodoni-urw, serif;
+
+font-weight: 300;
+
+font-style: normal;
+}
+
+h5 {
+ font-family: bodoni-urw, serif;
+
+font-weight: 300;
+
+font-style:normal; 
+    
+font-size: 25;
+    
+}
+
+p{
+    color: #6a6a6a;
+font-family: roboto, sans-serif;
+
+font-weight: 350;
+
+font-style: normal;
+    
+font-size: 14px;
+}
+body { background-color: #fff;
+}
+.btn-primary {
+    font-family: roboto, sans-serif;
+
+font-weight: 700;
+
+font-style: normal;
+    background-color: #648daf;
+    color:#f5f5f5;
+    border:none;
+}
+
+.btn {
+    border-radius: 0;
+}
+/*h1, h3{*/
+    text-align: center;
+}
+.form-control {
+    border: 1px solid #fff !important;
+}
+
+
+#carouselExampleControls {
+    width:50%; height:auto;
+    
+}
+
+.carousel-inner .active.left { left: -25%; }
+.carousel-inner .next        { left:  25%; }
+.carousel-inner .prev		 { left: -25%; }
+.carousel-control 			 { width:  4%; }
+.carousel-control.left,.carousel-control.right {margin-left:15px;background-image:none;}
+.brands {
+    
+    
+}
